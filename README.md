@@ -6,7 +6,7 @@ This is a Kotlin web project with a frontend built using npm React and a backend
 
 The project is structured as follows:
 
-- **frontend/**: Contains the frontend React application.
+- **kotlinfrontend/**: Contains the frontend React application.
 - **src/main/kotlin/com/example/plugins/**: Contains the Kotlin backend code.
 - **build.gradle**: Gradle build configuration file for the backend.
 - **package.json**: npm package configuration file for the frontend.
@@ -34,7 +34,7 @@ npm install
 1. Start the backend server:
 ```./gradlew run```
 2. Start the frontend development server:
-```cd frontend
+```cd kotlinfrontend
 npm start
 ```
 3. Access the application in your web browser at http://localhost:3000.
