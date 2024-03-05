@@ -34,6 +34,7 @@ dependencies {
     implementation("com.h2database:h2:$h2_version")
     implementation("io.ktor:ktor-server-html-builder-jvm")
 //    implementation("org.jetbrains:kotlinx-html:0.10.1")
+    implementation("com.github.kittinunf.fuel:fuel:3.0.0-alpha1")
     implementation("org.jetbrains:kotlin-css-jvm:1.0.0-pre.129-kotlin-1.4.20")
     implementation("io.ktor:ktor-serialization-jackson-jvm")
     implementation("io.ktor:ktor-server-swagger-jvm")

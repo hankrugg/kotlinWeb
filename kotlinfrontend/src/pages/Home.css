@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+}
+
+.fetch-button {
+    margin-bottom: 20px;
+}
+
+.picture-info-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.picture-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.picture-date {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.picture-container {
+    margin-bottom: 20px;
+}
+
+.apod-image {
+    max-width: 100%;
+}
+
+.picture-description {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.picture-copyright {
+    font-size: 14px;
+    color: #666;
+}
